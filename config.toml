@@ -1,6 +1,6 @@
 baseURL = "https://davidramirez5.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de David Patiñó"
+title = "Bitácora de Viaje de David Andrés"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
