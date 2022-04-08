@@ -18,5 +18,16 @@ Para mi la cultura de un profesional del software se compone de muchas cosas alg
  Saber trabajar en equipo. Respeto. Confianza. Dedicación. Actualización (con este me refiero a que siempre este actualizado en las nuevas tecnologías que estan surgiendo) Disfrutar Aprender. Equilibrio. Disfrutar de la tecnología.  Estos son algunos puntos que me parecen muy importantes en un Desarrolld@r.</description>
     </item>
     
+    <item>
+      <title>Ruta de Aprendizaje con Launch X.</title>
+      <link>https://davidramirez5.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidramirez5.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Hace algunas semanas que comenzó la travesía de Launch X y gracias a los Mission commander que nos han guiado he podido aprender muchas cosas. El programa esta muy bien estructurado y la ruta de aprendizaje que he seguido es la siguiente:
+Onboarding En esta primer semana vimos los fundamentos de programación para aprender y recordar algunos conceptos como:
+ Variables y Constantes. Entrada y Salida en python. Condicionales.(if) Listas. Bucles (While y for) Funciones.</description>
+    </item>
+    
   </channel>
 </rss>
